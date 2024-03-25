@@ -1,0 +1,17 @@
+/* estilos para el calendario */
+#calendar {
+    max-width: 1000px;
+    margin: 25px 0 25px 50px;
+}
+
+a {
+    color: black;
+}
+
+.fc .fc-button-group {
+    display: block;
+}
+
+.fc .fc-toolbar-title {
+    padding: 15px;
+}
